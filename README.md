@@ -41,13 +41,7 @@ Built as a Frontend Developer Internship submission.
 
 ### 📱 Mobile Responsive View
 
-![Mobile](./docs/mobile-view.png)
-
----
-
-## 🎥 Demo
-
-![Demo Video](./docs/demo.gif)
+![Mobile](./docs/mobile-view.jpeg)
 
 ---
 
