@@ -53,12 +53,6 @@ Built as a Frontend Developer Internship submission.
 
 ## Overview
 
-Developers constantly need...
-
----
-
-## Overview
-
 Developers constantly need small, consistent visual assets for UI states, but end up hunting across icon packs, Dribbble shots, and Lottie libraries just to fill an empty list or a loading spinner. **StateFlow** solves this with a single searchable library, organized around the states real applications actually go through, with instant preview and one-click download — no sign-up, no external image hosts, works fully offline.
 
 Every asset is generated as a self-contained SVG at build time, so previews and downloads work even without a network connection.
