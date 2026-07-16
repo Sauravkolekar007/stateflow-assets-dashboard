@@ -249,14 +249,13 @@ After deploying, replace the placeholder link at the top of this README with you
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Built by
+Built by **Saurav Balaso Kolekar**
 
-Saurav Balaso Kolekar 
-
-- GitHub: [Sauravkolekar007](https://github.com/Sauravkolekar007)
+- GitHub: https://github.com/Sauravkolekar007
 - LinkedIn: https://www.linkedin.com/in/saurav-kolekar-623bb61b5
+- Portfolio: https://sauravkolekar.lovable.app
 
 ## License
 
