@@ -1,5 +1,15 @@
 # StateFlow — Loading & Error Assets Dashboard
 
+## ✨ Highlights
+
+- 🔍 Smart Search with Debouncing
+- 🎨 Light & Dark Theme
+- ❤️ Favorites with LocalStorage
+- 📂 Category Filtering
+- 🖼️ Preview Modal
+- ⬇️ SVG Download
+- 📱 Fully Responsive
+
 A production-style developer tool for finding, previewing, and downloading illustrations, motion assets, and dev-humor graphics for every state an application can be in — loading, waiting, processing, success, error, empty, and offline.
 
 Built as a Frontend Developer Internship submission.
