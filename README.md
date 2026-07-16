@@ -1,5 +1,10 @@
 # StateFlow — Loading & Error Assets Dashboard
 
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38BDF8?logo=tailwindcss)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## ✨ Highlights
 
 - 🔍 Smart Search with Debouncing
