@@ -195,7 +195,7 @@ Context sits above the router so theme/favorites/recent state survives navigatio
 **Requirements:** Node.js 18+ and npm 9+
 
 ```bash
-git clone https://github.com/Sauravkolekar007/stateflow-assets.git
+git clone https://github.com/Sauravkolekar007/stateflow-assets-dashboard.git
 cd stateflow-assets
 npm install
 ```
